@@ -8,7 +8,7 @@ So I recommend to redesign the board with an external DAC, a MCP3008 for example
 ESP32-S2-WROVER symbol & footprint from snapEDA  
 SimpleKalmanFilter Arduino lib  
 [midiusb.h](https://github.com/chegewara/EspTinyUSB)  
-Maybe some more things (ME6211?)
+Maybe some more things (ME6211?)  
 [Sliders used (Tinytronics.nl)](https://www.tinytronics.nl/shop/nl/componenten/weerstanden/10k%CF%89-slide-potmeter-standaard-75mm)
 
 <img src="/images/img.jpeg" alt="ESP32S2_MIDIController" width="500"></img>
