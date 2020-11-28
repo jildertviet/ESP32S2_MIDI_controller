@@ -7,5 +7,5 @@ So I recommend to redesign the board with an external DAC, a MCP3008 for example
 # Dependancies
 ESP32-S2-WROVER symbol & footprint from snapEDA  
 SimpleKalmanFilter Arduino lib  
-[midiusb.h](https://github.com/chegewara/EspTinyUSB)
+[midiusb.h](https://github.com/chegewara/EspTinyUSB)  
 Maybe some more things (ME6211?)
