@@ -9,7 +9,7 @@ ESP32-S2-WROVER symbol & footprint from snapEDA
 SimpleKalmanFilter Arduino lib  
 [midiusb.h](https://github.com/chegewara/EspTinyUSB)  
 Maybe some more things (ME6211?)  
-[Sliders used (Tinytronics.nl)](https://www.tinytronics.nl/shop/nl/componenten/weerstanden/10k%CF%89-slide-potmeter-standaard-75mm)
+[Sliders used (Tinytronics.nl)](https://www.tinytronics.nl/shop/nl/componenten/weerstanden/10k%CF%89-slide-potmeter-standaard-75mm) (have to bend the pins a little bit)
 
 <img src="/images/img.jpeg" alt="ESP32S2_MIDIController" width="500"></img>
 <img src="/images/pcb.png" alt="PCB" width="500"></img>
