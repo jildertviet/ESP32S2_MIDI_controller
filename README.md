@@ -10,5 +10,5 @@ SimpleKalmanFilter Arduino lib
 [midiusb.h](https://github.com/chegewara/EspTinyUSB)  
 Maybe some more things (ME6211?)
 
-<img src="/images/img.jpg" alt="ESP32S2_MIDIController" width="500"></img>
+<img src="/images/img.jpeg" alt="ESP32S2_MIDIController" width="500"></img>
 <img src="/images/pcb.png" alt="PCB" width="500"></img>
