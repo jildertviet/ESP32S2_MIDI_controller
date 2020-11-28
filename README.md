@@ -9,3 +9,5 @@ ESP32-S2-WROVER symbol & footprint from snapEDA
 SimpleKalmanFilter Arduino lib  
 [midiusb.h](https://github.com/chegewara/EspTinyUSB)  
 Maybe some more things (ME6211?)
+
+<img src="/images/pcb.png" alt="PCB" style="max-width: 500px"></img>
