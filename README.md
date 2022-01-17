@@ -4,6 +4,11 @@ It uses the internal DAC of the ESP32 which is quite unstable for this purpose.
 #### !!! So I recommend to redesign the board with an external DAC, a MCP3008 for example.  
 (I've stabilized the output with a Kalman filter.)  
 
+# Known issues
+- Missing a ground plane
+- Noisy values from ADC 
+- Footprint of sliders isn't perfect
+
 # Dependancies
 - ESP32-S2-WROVER symbol & footprint from snapEDA  
 - SimpleKalmanFilter Arduino lib  
