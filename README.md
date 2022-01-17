@@ -1,7 +1,7 @@
 # ESP32S2_MIDI_controller
 ESP32S2 based MIDI controller with 5 sliders  
 It uses the internal DAC of the ESP32 which is quite unstable for this purpose.   
-So I recommend to redesign the board with an external DAC, a MCP3008 for example.   
+#### !!! So I recommend to redesign the board with an external DAC, a MCP3008 for example.  
 (I've stabilized the output with a Kalman filter.)  
 
 # Dependancies
